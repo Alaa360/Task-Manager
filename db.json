@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Swimming",
+      "day": "Tuesday 7:00 am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Shopping",
+      "day": "Friday 4:00 pm to 6:00 pm",
+      "reminder": "false"
+    },
+    {
+      "id": "3",
+      "text": "Study",
+      "day": "Monday 10:00 am to 6:00 pm",
+      "reminder": "true"
+    },
+    {
+      "id": "4",
+      "text": "Drawing",
+      "day": "Sunday 4:00 pm to 7:00 pm",
+      "reminder": "false"
+    }
+  ]
+}
